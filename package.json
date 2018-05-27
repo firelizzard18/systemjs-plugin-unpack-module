@@ -1,7 +1,7 @@
 {
   "name": "systemjs-plugin-unpack-module",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/firelizzard18/systemjs-plugin-unpack-module.git"
